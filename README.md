@@ -10,7 +10,7 @@ Implements the separation, alignment and cohesion rules.
 
 The code is not exactly pretty though.
 
-The project raport is included, but it is in Finnish.
+The project report is included, but it is in Finnish.
 
 Running
 =======
@@ -27,3 +27,5 @@ Requires
 ========
 
 * PySide
+
+The code uses Vec2d from PyGame, but this is included in the repo.
